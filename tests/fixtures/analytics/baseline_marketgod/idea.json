@@ -1,0 +1,17 @@
+{
+  "Name": "baseline_marketgod",
+  "Title": "Baseline MarketGod Strategy",
+  "Description": "Original MarketGod v7.2.6 logic: Buy when bullish HA candle above SMA(high) + KDJ J>K + rising BBands %B. Sell on inverse.",
+  "Experiment": "Run baseline with default parameters: noise_filter=12, position_size=25%",
+  "Parameters": {
+    "noise_filter": 12,
+    "kdj_period_k": 14,
+    "kdj_period_d": 7,
+    "bb_period": 20,
+    "bb_std": 2.0,
+    "position_size_pct": 25
+  },
+  "Interestingness": 5,
+  "Feasibility": 10,
+  "Novelty": 3
+}

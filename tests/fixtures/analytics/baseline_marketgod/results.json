@@ -1,0 +1,42 @@
+{
+  "BTC-USD": {
+    "initial_capital": 10000.0,
+    "final_capital": 9917.438076640447,
+    "total_return_pct": -0.8256192335955315,
+    "sharpe_ratio": 0.025089805331580582,
+    "max_drawdown_pct": -23.177705648461924,
+    "total_trades": 70,
+    "win_rate_pct": 28.57142857142857,
+    "avg_win": 475.8038085098904,
+    "avg_loss": -186.71004200204112
+  },
+  "ETH-USD": {
+    "initial_capital": 10000.0,
+    "final_capital": 13736.476094034013,
+    "total_return_pct": 37.36476094034013,
+    "sharpe_ratio": 0.6053181746652831,
+    "max_drawdown_pct": -15.674202001847664,
+    "total_trades": 63,
+    "win_rate_pct": 41.935483870967744,
+    "avg_win": 655.7584171787732,
+    "avg_loss": -250.79602864605192
+  },
+  "SOL-USD": {
+    "initial_capital": 10000.0,
+    "final_capital": 30150.2661082017,
+    "total_return_pct": 201.50266108201703,
+    "sharpe_ratio": 1.0703490398405586,
+    "max_drawdown_pct": -37.387354735897816,
+    "total_trades": 61,
+    "win_rate_pct": 26.666666666666668,
+    "avg_win": 3191.2752722203286,
+    "avg_loss": -434.8399267924266
+  },
+  "aggregate": {
+    "sharpe_ratio": 0.5669190066124741,
+    "total_return_pct": 79.34726759625387,
+    "max_drawdown_pct": -25.413087462069132,
+    "win_rate_pct": 32.39119303635433,
+    "total_trades": 194
+  }
+}
